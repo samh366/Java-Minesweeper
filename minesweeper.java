@@ -208,7 +208,7 @@ class Board {
                     break;
             }
         } else {
-            System.out.println("Invalid command");
+            System.out.println("Invalid command, example command: F[A0]");
         }
     }
 
